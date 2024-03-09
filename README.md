@@ -68,24 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-Here Are the ScreenShots Of ChatBox :
- <h3>1. Register Page</h3>
- <p>User can Register by Giving the name, email and password</p>
-<img src="https://user-images.githubusercontent.com/21364995/60455181-6c050e00-9c53-11e9-80fb-a4e322862161.png" width="600" height="400" alt="RegisterPage">
-
- <h3>2. Login Page</h3>
- <p>User can Login using name and password</p>
-<img src="https://user-images.githubusercontent.com/21364995/60455849-3cef9c00-9c55-11e9-8c57-87accc4cb5f8.png" width="600" height="400" alt="RegisterPage">
-
-<h3>3. Home Page</h3>
- <p>Displays the two buttons indications to update the profile or to start chatting in Home Page.</p>
-<img src="https://user-images.githubusercontent.com/21364995/60456026-b25b6c80-9c55-11e9-9226-8fe94f9e40ec.png" width="600" height="400" alt="RegisterPage">
-
-<h3>3. Edit Profile Page</h3>
-<p>User can update the profile By Giving the Address and Phone Number.</p>
-<img src="https://user-images.githubusercontent.com/21364995/60456201-43cade80-9c56-11e9-8901-cfeac4ea6826.png" width="600" height="400" alt="RegisterPage">
-
-<h3>3. User ChatBox Screens</h3>
-<p>Display of different users chatbox which can able to chat among all the users who are registered.</p>
-<img src="https://user-images.githubusercontent.com/21364995/60456642-66a9c280-9c57-11e9-8cb6-ea631de9a6e7.png" width="600" height="400" alt="RegisterPage">
-
